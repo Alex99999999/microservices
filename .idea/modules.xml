@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SocialNetworkUsers/SocialNetworkUsers.iml" filepath="$PROJECT_DIR$/SocialNetworkUsers/SocialNetworkUsers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test.iml" filepath="$PROJECT_DIR$/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiGateway/apiGateway.iml" filepath="$PROJECT_DIR$/apiGateway/apiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socialNetworkUsersAccounts/socialNetworkUsersAccounts.iml" filepath="$PROJECT_DIR$/socialNetworkUsersAccounts/socialNetworkUsersAccounts.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: DiscoveryService
+
+
+server:
+  port: 8010
+#  servlet:
+#    context-path: /EurekaServer
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://localhost:${server.port}/eureka
+

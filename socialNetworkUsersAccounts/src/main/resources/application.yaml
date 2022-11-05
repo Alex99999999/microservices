@@ -1,0 +1,13 @@
+server:
+  port: ${PORT:0}
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_HOST:http://localhost:8010/eureka}
+  instance:
+    instanceId: ${spring.application.name}:${spring.application.instanceID:${random.value}}
+
+spring:
+  application:
+    name: users-accounts-web
